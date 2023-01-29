@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tylertle&label=Profile%20views:&color=b01317&style=flat" alt="tylertle" /> </p>
 
-- 🌱 I’m currently learning **Oracle, C#**, Cloud Computing <img src=["https://i.imgur.com/I5M8yOg.gif](https://i.imgur.com/mFOWJvB.gif)" height=256px width=256px>
+- 🌱 I’m currently learning **Oracle, C#**, Cloud Computing <img src=["https://i.imgur.com/mFOWJvB.gif" height=256px width=256px>
 
 - 📫 How to reach me **tylertle00@gmail.com**
 
