@@ -1,5 +1,5 @@
 <h1 align="center">Tyler Le</h1>
-**Software and Devops Engineer**
+**`Software/DevOps Engineer`**
 <h3>About Me:</h3>
 
 ##
