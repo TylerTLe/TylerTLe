@@ -1,3 +1,4 @@
+<h1 align="center">Welcome 👋</h1>
 <h3 align="center">Software Development Student at Southern Alberta Institute of Technology (SAIT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tylertle&label=Profile%20views:&color=b01317&style=flat" alt="tylertle" /> </p>
