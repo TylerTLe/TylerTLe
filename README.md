@@ -6,15 +6,16 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=tylertle&label=Profile%20views:&color=b01317&style=flat"  alt="tylertle" /> </p>
 
-# Files
+
+## - 🌱 I’m currently learning: 
+
+**Oracle, C#**, **Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="40" width="40">
 
   
 
-- 🌱 I’m currently learning **Oracle, C#**, **Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="40" width="40">
+## - 📫 How to reach me: 
 
-  
-
-- 📫 How to reach me **tylertle00@gmail.com**
+**tylertle00@gmail.com**
 
   
 
