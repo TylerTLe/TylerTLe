@@ -8,11 +8,15 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 
   
 
-## - 🌱 I’m currently learning: **Oracle, C#**, **Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="40" width="40">
+## - 🌱 I’m currently learning: 
+
+**Oracle, C#**, **Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="40" width="40">
 
   
 
-## - 📫 How to reach me: **tylertle00@gmail.com**
+## - 📫 How to reach me: 
+
+**tylertle00@gmail.com**
 
   
 
