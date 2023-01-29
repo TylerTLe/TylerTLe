@@ -1,7 +1,9 @@
 # ![enter image description here](https://i.imgur.com/FuXSd76.gif)
 **`Software/DevOps Engineer`**
 
-Hi! I'm a software development student at the Southern Alberta Institute of Technology (SAIT). I am constantly seeking opportunities to learn and expand my knowledge. I am excited to begin my career as a software developer and DevOps professional and am looking for a company where I can grow and contribute to the success of the team. Whether working individually or as part of a team, I am committed to delivering exceptional results and driving projects to successful completion.
+Hi! I'm a software development student at the Southern Alberta Institute of Technology (SAIT). I am constantly seeking opportunities to learn and expand my knowledge. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+
+
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=tylertle&label=Profile%20views:&color=b01317&style=flat"  alt="tylertle" /> </p>
 
 # Files
