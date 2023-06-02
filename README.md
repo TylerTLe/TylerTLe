@@ -9,7 +9,7 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 
 ## - 🌱 I’m Currently Learning: 
 
-Java<br>
+**Java<br>
 React.js<br>
 JavaScript <br>
 Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="25" width="25">
@@ -18,8 +18,7 @@ Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="25" width="
 **Oracle<br>
 C#<br>
 Software Analysis and Design<br>
-UX Analysis and Design<br>
-**
+UX Analysis and Design**
 
 ## - 📫 How to reach me: 
 
