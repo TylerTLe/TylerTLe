@@ -7,12 +7,12 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=tylertle&label=Profile%20views:&color=b01317&style=flat"  alt="tylertle" /> </p>
 
 
-## - 🌱 I’m currently learning: 
+## - 🌱 I’m Currently Learning: 
 
 Java<br>
 React.js<br>
 JavaScript <br>
-Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="40" width="40">
+Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="20" width="20">
 
 ## - 🌱 Completed Learning:
 **Oracle<br>
