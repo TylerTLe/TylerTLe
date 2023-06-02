@@ -9,13 +9,13 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 
 ## - 🌱 I’m currently learning: 
 
-**Oracle
+**Oracle<br>
 C#<br>
-Software Analysis and Design
-UX Analysis and Design
-Java
-React.js
-JavaScript 
+Software Analysis and Design<br>
+UX Analysis and Design<br>
+Java<br>
+React.js<br>
+JavaScript <br>
 Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="40" width="40">
 
   
