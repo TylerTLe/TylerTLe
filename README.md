@@ -10,7 +10,7 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 ## - 🌱 I’m currently learning: 
 
 **Oracle
-C#\n
+C#<br>
 Software Analysis and Design
 UX Analysis and Design
 Java
