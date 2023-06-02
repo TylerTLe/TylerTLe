@@ -1,5 +1,5 @@
 # ![enter image description here](https://i.imgur.com/FuXSd76.gif)
-**`Software Engineer | DevOps Engineer | Full Stack Developer`**
+**`Software Engineer`** **`DevOps Engineer`** **`Full Stack Developer`**
 
 Hi! I'm a software development student at the Southern Alberta Institute of Technology (SAIT). I am constantly seeking opportunities to learn and expand my knowledge. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
