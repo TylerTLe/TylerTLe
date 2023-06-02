@@ -12,7 +12,7 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 Java<br>
 React.js<br>
 JavaScript <br>
-Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="30" width="30">
+Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="25" width="25">
 
 ## - 🌱 Completed Learning:
 **Oracle<br>
