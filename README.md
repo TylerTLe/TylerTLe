@@ -22,7 +22,7 @@ UX Analysis and Design**
 
 ## - 📫 How to reach me: 
 
-**tylertle00@gmail.com**
+**tylertle00@gmail.com** <br>
 **https://www.linkedin.com/in/tyler-thai-le/**
 
 <h3 align="left">Connect with me:</h3>
