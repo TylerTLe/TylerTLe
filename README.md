@@ -12,7 +12,7 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 **Java<br>
 React.js<br>
 JavaScript <br>
-Cloud Computing** <img src="https://i.imgur.com/FZdyDXi.gif" height="25" width="25">
+<img src="https://i.imgur.com/FZdyDXi.gif" height="20" width="25"> Cloud Computing**
 
 ## - 🌱 Completed Learning:
 **Oracle<br>
@@ -23,8 +23,7 @@ UX Analysis and Design**
 ## - 📫 How to reach me: 
 
 **tylertle00@gmail.com**
-
-  
+**https://www.linkedin.com/in/tyler-thai-le/**
 
 <h3 align="left">Connect with me:</h3>
 
