@@ -6,6 +6,7 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=tylertle&label=Profile%20views:&color=b01317&style=flat"  alt="tylertle" /> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tylertle&" alt="tylertle" /></p>
 
 ## - 🌱 I’m Currently Learning: 
 
