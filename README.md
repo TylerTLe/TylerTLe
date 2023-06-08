@@ -1,7 +1,7 @@
 # ![enter image description here](https://i.imgur.com/FuXSd76.gif)
 **`Software Engineer`** **`DevOps Engineer`** **`Full Stack Developer`**
 ---
-[![](https://visitcount.itsvg.in/api?id=Tylertle&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Tylertle&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 Hi! I'm a software development student at the Southern Alberta Institute of Technology (SAIT). I am constantly seeking opportunities to learn and expand my knowledge. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
