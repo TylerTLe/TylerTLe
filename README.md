@@ -3,9 +3,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Tylertle&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-Hi! I'm a software development student at the Southern Alberta Institute of Technology (SAIT). I am constantly seeking opportunities to learn and expand my knowledge. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-
-
+Welcome! I'm a software development student at the Southern Alberta Institute of Technology (SAIT). I am constantly seeking opportunities to learn and expand my knowledge. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyler-thai-le) 
@@ -19,5 +17,3 @@ Hi! I'm a software development student at the Southern Alberta Institute of Tech
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tylertle&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
