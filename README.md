@@ -3,7 +3,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Tylertle&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-Welcome! I'm Tyler, I'm a software development student at the Southern Alberta Institute of Technology (SAIT). I am constantly seeking opportunities to learn and expand my knowledge. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My GitHub repositories showcase a diverse range of projects that reflect my ongoing journey as a software developer. From simple coding exercises to more complex applications, I enjoy experimenting with different technologies and frameworks.
+Hello! I'm Tyler, I'm a software development student at the Southern Alberta Institute of Technology (SAIT). I am constantly seeking opportunities to learn and expand my knowledge. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My GitHub repositories showcase a diverse range of projects that reflect my ongoing journey as a software developer. From simple coding exercises to more complex applications, I enjoy experimenting with different technologies and frameworks.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyler-thai-le) 
