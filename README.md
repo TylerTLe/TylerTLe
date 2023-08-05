@@ -1,7 +1,7 @@
 # ![enter image description here](https://i.imgur.com/FuXSd76.gif)
 **`Software Engineer`** **`DevOps Engineer`** **`Full Stack Developer`**
 ---
-[![](https://visitcount.itsvg.in/api?id=Tylertle&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=TylerTLe&color=blue)
 
 Hello! I'm Tyler, I'm a software development student at the Southern Alberta Institute of Technology (SAIT). I am constantly seeking opportunities to learn and expand my knowledge. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My GitHub repositories showcase a diverse range of projects that reflect my ongoing journey as a software developer. From simple coding exercises to more complex applications, I enjoy experimenting with different technologies and frameworks.
 
