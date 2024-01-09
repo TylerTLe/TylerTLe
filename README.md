@@ -1,5 +1,5 @@
 # ![enter image description here](https://i.imgur.com/FuXSd76.gif)
-**`Software Engineer`** **`DevOps Engineer`** **`Full Stack Developer`**
+**`Software Engineer`** **`Full Stack Developer`**
 ---
 ![](https://komarev.com/ghpvc/?username=TylerTLe&color=blue)
 
